@@ -1,0 +1,1 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\HexaToDecimal\HexaToDecimal\bin\Debug\HexaToDecimal.exe.config
