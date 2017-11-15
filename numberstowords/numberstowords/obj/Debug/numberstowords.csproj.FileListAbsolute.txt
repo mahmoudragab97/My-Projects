@@ -1,0 +1,1 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\numberstowords\numberstowords\bin\Debug\numberstowords.exe.config
