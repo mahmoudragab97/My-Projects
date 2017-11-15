@@ -1,0 +1,6 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Student program\Student program\bin\Debug\Student program.exe.config
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Student program\Student program\bin\Debug\Student program.exe
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Student program\Student program\bin\Debug\Student program.pdb
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Student program\Student program\obj\Debug\Student program.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Student program\Student program\obj\Debug\Student program.exe
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Student program\Student program\obj\Debug\Student program.pdb
