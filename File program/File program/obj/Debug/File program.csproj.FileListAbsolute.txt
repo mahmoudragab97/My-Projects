@@ -1,0 +1,6 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\bin\Debug\File program.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\bin\Debug\File program.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\bin\Debug\File program.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\obj\Debug\File program.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\obj\Debug\File program.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\File program\File program\obj\Debug\File program.pdb
